@@ -1,0 +1,113 @@
+
+Game: MLLBB
+
+
+Game Object 6: ML
+
+Attributes:
+- Battle Fields
+- Physcial Attack
+- Games
+- Tournaments
+-
+
+
+Method:
+- Magic Penetration
+- Healing Received
+- Physical/Magic Lifesteal
+- Imperial Sanctuary
+- 
+
+
+Game Object 1: Character
+Attributes:
+- Star Rebel
+- HP
+- Gender 
+- Species
+- Age
+- Origin
+- Age
+- Cooldown Reduction
+- Emblem
+- Skin
+- Revamp
+
+Methods:
+- Voice
+- Movement Speed
+- Movement Bonus
+- Girl
+- Burst
+- Poke
+- Price
+
+Game Object 2: Ability
+
+Attributes:
+- Star Trail
+- Astar Meteor
+- Astar Recall
+- Damage
+
+Methods: 
+- Passive
+- Skills
+- Ultimate
+- Slow enemy heroes
+- Increase Hitbox
+
+
+Game Object 3: Emblem
+
+Attributes:
+-  Agility
+- Damage Bonus
+- Contract
+- Catastrophe
+- Flow
+- Mastery
+- Impure Rage
+- Golden Touch
+- Observation
+
+Method:
+- Magic PEN
+- CD Reduction
+- Movement Speed
+- Damage
+- Magic Power
+- Cooldwon Reduction
+
+
+Game Object 4: Splash Art
+
+Attributes:
+- Dark Star
+- Star Rebel
+- Sugar Glaze
+- Painted Icons
+
+Method:
+- Damage
+- Damage Increase
+- Movement Speed Increase
+- Extra Percentage Damage
+
+Game Object 5: Observation
+
+Attributes:
+- Recall
+- Regen
+- Battle Spell
+-  Buff
+- Burst
+
+Method:
+- Health Points
+- Crit Damage
+- Back to base
+- Live
+- Kills near enemies
+- Flameshots
